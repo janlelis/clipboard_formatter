@@ -8,7 +8,7 @@ Copies the list of failed examples to your clipboard so that you can restart the
 Add the gem to your `Gemfile`:
 
 ```ruby
-gem 'rspec-clipboard'
+gem 'clipboard_formatter'
 ```
 
 Add the formatter to your rspec options, e.g. in a `.rspec` file. You probably want to set it as an additional one, instead of the only one:
