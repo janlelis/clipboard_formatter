@@ -1,7 +1,6 @@
 # RSpec Clipboard Formatter [![[version]](https://badge.fury.io/rb/clipboard_formatter.svg)](http://badge.fury.io/rb/clipboard_formatter)
 
-Copies the list of failed examples to your clipboard so that you can restart them easily.
-
+Copies the command to run all failed examples to your clipboard.
 
 ## Setup
 
