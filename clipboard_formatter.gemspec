@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = "A clipboard formatter for RSpec."
   gem.description   = "Copies the list of failed examples to your clipboard so that you can restart them easily."
   gem.authors       = ["Jan Lelis"]
-  gem.email         = "mail@janlelis.de"
+  gem.email         = "hi@ruby.consulting"
   gem.homepage      = "https://github.com/janlelis/clipboard_formatter"
   gem.license       = "MIT"
 
