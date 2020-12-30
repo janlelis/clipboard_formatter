@@ -1,4 +1,4 @@
-# RSpec Clipboard Formatter [![[version]](https://badge.fury.io/rb/clipboard_formatter.svg)](http://badge.fury.io/rb/clipboard_formatter)
+# RSpec Clipboard Formatter [![[version]](https://badge.fury.io/rb/clipboard_formatter.svg)](https://badge.fury.io/rb/clipboard_formatter)
 
 Copies the command to run all failed examples to your clipboard.
 
@@ -25,5 +25,5 @@ Run your RSpec suite, but let some tests fail. Then use your clipboard.
 
 ## MIT License
 
-Copyright (C) 2015 Jan Lelis <http://janlelis.com>. Released under the MIT license.
+Copyright (C) 2015 Jan Lelis <https://janlelis.com>. Released under the MIT license.
 
